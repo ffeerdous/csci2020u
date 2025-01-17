@@ -13,11 +13,11 @@ To work with the current and future repositories, you must be capable of cloning
 ## Git Commands
 
 - How do I clone a repository? `git clone`
-- How do I commit changes?
-- How do I switch between branches?
-- How do I stage changes?
-- How do I push changes?
-- How do I pull changes?
+- How do I commit changes? `git commit`
+- How do I switch between branches? `git checkout`
+- How do I stage changes? `git add`
+- How do I push changes? `git push`
+- How do I pull changes? `git pull`
 
 ## Part 1: The Basics
 
